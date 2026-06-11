@@ -34,8 +34,7 @@ To                         Action      From
 22/tcp (v6)                ALLOW IN    Anywhere (v6)             
 80/tcp (v6)                DENY IN     Anywhere (v6)
 
-
-## 🎥 Practical Demonstration Video
+🎥 Practical Demonstration Video
 You can watch the full step-by-step video demonstration of this UFW installation, rule configuration, and status verification here:
 
-👉 [**Click Here to Watch the UFW Firewall Demo Video Walkthrough**](https://drive.google.com/file/d/1PguGxg8Ub_VcKn4dqgd4yFsnhciSo7w1/view?usp=sharing)
+👉 Click Here to Watch the UFW Firewall Demo Video Walkthrough
