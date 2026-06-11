@@ -35,7 +35,9 @@ To                         Action      From
 80/tcp (v6)                DENY IN     Anywhere (v6)
 ---
 
-## 🎥 Practical Demonstration Video
+
+---
+##🎥 Practical Demonstration Video
 You can watch the full, unlisted step-by-step video demonstration of this UFW firewall configuration execution here:
 
 👉 [**Click Here to Watch the UFW Firewall Demo Video Walkthrough**](https://drive.google.com/file/d/1PguGxg8Ub_VcKn4dqgd4yFsnhciSo7w1/view?usp=sharing)
